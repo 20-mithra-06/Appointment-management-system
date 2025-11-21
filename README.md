@@ -100,6 +100,18 @@ gcc appointment_system.c -o appointment_system
 
 ------------------------------------------------------------------------
 
+## ** Screenshots **
+
+<img width="493" height="253" alt="image" src="https://github.com/user-attachments/assets/29a99e6b-ecf2-4aa7-9e38-49aecc049724" />
+
+<img width="492" height="249" alt="Screenshot 2025-11-21 160650" src="https://github.com/user-attachments/assets/f2874cdd-f176-4568-a5e3-ecfcf55e2b42" />
+
+
+<img width="770" height="258" alt="Screenshot 2025-11-21 160757" src="https://github.com/user-attachments/assets/6d4c30ef-e3f5-4577-9371-9d3f1ced760a" />
+
+
+<img width="477" height="262" alt="Screenshot 2025-11-21 160832" src="https://github.com/user-attachments/assets/6aeac4fe-d1f1-4b18-b288-cc1f3dd497b0" />
+
 
 
 ### **Main Menu**
