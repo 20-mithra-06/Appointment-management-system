@@ -60,7 +60,7 @@ The system must allow the user to:
 
 #### **Windows:**
 
-Use *MinGW* or *TDM-GCC*
+Use *MinGW* 
 
 ``` bash
 gcc --version
