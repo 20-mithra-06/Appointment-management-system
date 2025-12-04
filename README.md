@@ -51,7 +51,13 @@ The system must allow the user to:
 -    Edit only the fields you want to change\
 -    Screen clear support (Windows & Linux)\
 -    Handles up to 100 appointments
-
+-    
+## MAIN FUNCTION IN LOOPS
+- do - while loop
+- And for loops for
+- 1. appointmentExists():
+  2. viewAppointments():
+  3. cancelAppointment(): 
 ------------------------------------------------------------------------
 
 ## ** How to Run the Project**
